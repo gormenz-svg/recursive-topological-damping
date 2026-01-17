@@ -50,6 +50,8 @@ $$S = \min \sum_{k=1}^{n} \left\| X_{target} - \Phi(x_k, A^k) \right\| - \Gamma(
 
 To demonstrate the stability of the **RTD Protocol**, I have simulated a high-entropy environment with **40% stochastic noise** (representing cardiac pulsation, respiratory drift, and unexpected biological displacement).
 
+<img width="1014" height="760" alt="11" src="https://github.com/user-attachments/assets/d77b7e79-21d3-4b72-b8ff-b7a3de3fb6e8" />
+
 ### Key Result:
 * **Red Line:** Raw sensor telemetry with extreme biological noise.
 * **Cyan Line:** RTD-stabilized trajectory (Coherence > 0.98).
