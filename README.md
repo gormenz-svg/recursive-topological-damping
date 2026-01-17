@@ -59,19 +59,18 @@ To demonstrate the stability of the **RTD Protocol**, I have simulated a high-en
 
 https://github.com/user-attachments/assets/c37c5bfb-ab54-4047-b0de-d0d344a9f4a8
 
-## Installation & Quick Start
+## 🚀 Installation & Quick Start
 
-Requires Python 3.8+.
+To replicate the simulation results on your local machine, follow these steps:
 
-1. Clone the repo:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gormenz-svg/recursive-topological-damping.git
+   git clone [https://github.com/gormenz-svg/recursive-topological-damping.git](https://github.com/gormenz-svg/recursive-   topological-damping.git)
    cd recursive-topological-damping
 
-   python -m venv venv
-   source venv/bin/activate  # Windows: venv\Scripts\activate
+   pip3 install numpy matplotlib
 
-   python rtd_simulation.py
+   python3 rtd_live.py
 
 ---
 *Developed for the future of interstellar medical stability.*
