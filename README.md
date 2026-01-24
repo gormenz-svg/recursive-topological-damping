@@ -65,4 +65,8 @@ https://github.com/user-attachments/assets/c37c5bfb-ab54-4047-b0de-d0d344a9f4a8
 3. pip install numpy matplotlib scipy
 4. python rtd_simulation.py
 ---
+
 *Developed for the future of interstellar medical stability.*
+
+----
+Resonance 11 used
